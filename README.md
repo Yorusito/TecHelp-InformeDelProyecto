@@ -1,6 +1,6 @@
 # Universidad Peruana De Ciencas Aplicadas
 ## Desarrollo de Aplicaciones Open Source SW51
-<center> <img src = "https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png"></img> </center>
+<p align = "center"> <img src = "https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png"></img> </p>
 
 <center>
 
