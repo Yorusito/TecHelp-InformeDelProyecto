@@ -2,12 +2,12 @@
 ## Desarrollo de Aplicaciones Open Source SW51
 <p align = "center"> <img src = "https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png"></img> </p>
 
-<center>
 
-## "Informe de Trabajo Final"
-## logicVerse - TecHelp
-##  Profesor: Angel Augusto Velasquez Nuñez
-</center>
+<p align = "center">
+    <h2>"Informe del Trabajo Final"</h2>
+    <h2>LogicVerse - TecHelp</h2>
+    <h2>Profesor: Angel Ag=ugusto Velasquez Nuñes</h2>
+</p>
 
 ## Integrantes:
 
