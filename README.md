@@ -1,13 +1,18 @@
+<center>
+
 # Universidad Peruana De Ciencas Aplicadas
 ## Desarrollo de Aplicaciones Open Source SW51
+
+</center>
+
 <p align = "center"> <img src = "https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png"></img> </p>
 
 
-<p align = "center">
-    <h2>"Informe del Trabajo Final"</h2>
+<center>
+    <h2>"Informe TB1"</h2>
     <h2>LogicVerse - TecHelp</h2>
-    <h2>Profesor: Angel Ag=ugusto Velasquez Nuñes</h2>
-</p>
+    <h2>Profesor: Angel Agusto Velasquez Nuñes</h2>
+</center>
 
 ## Integrantes:
 
@@ -22,17 +27,17 @@
 
 | Version | Fecha | Autor |   Descripcion de modificacion   |
 |----------|----------|----------|----------|
-| Row 1    | Cell 2   | Cell 3   | Cell 3   |
+| 0.1   | 22/08/23 | LogicVerse | Se agrego el primer capitulo al trabajo  |
 
 ## Project Report Collaboration Insights 
 
 ------
 ## Contenido 
 ### Capitulo I: Introducción
-#### 1.1. Startup Profile
-##### 1.1.1. Descripcion de la Startup
-##### 1.1.2. Perfiles de Integrantes del equipo
-#### 1.2. Solution Profile
+#### 1.1. [Startup Profile](/Docs/Capitulo%20I/StartupProfile.md)
+##### 1.1.1. [Descripcion de la Startup](/Docs/Capitulo%20I/StartupProfile.md)
+##### 1.1.2. [Perfiles de Integrantes del equipo](/Docs/Capitulo%20I/StartupProfile.md)
+#### 1.2. [Solution Profile](/Docs/Capitulo%20I/Solution%20Profile.md)
 ##### 1.2.1. Antecedentes y problematica
 ##### 1.2.2. Lean UX Process 
 ###### 1.2.2.1. Lean UX Problem Statements
