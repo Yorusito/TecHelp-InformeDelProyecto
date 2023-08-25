@@ -18,7 +18,7 @@
 
 
 * ### Morales Quispe Brayan Smith   u20211f984 
-* ###      
+* ### Ramirez Mendez Sebastián André    u20191e575     
 * ###      
 * ### 
 * ### 
