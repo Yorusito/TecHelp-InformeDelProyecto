@@ -38,7 +38,7 @@
 ##### 1.1.1. [Descripcion de la Startup](/Docs/Capitulo%20I/StartupProfile.md)
 ##### 1.1.2. [Perfiles de Integrantes del equipo](/Docs/Capitulo%20I/StartupProfile.md)
 #### 1.2. [Solution Profile](/Docs/Capitulo%20I/Solution%20Profile.md)
-##### 1.2.1. Antecedentes y problematica
+##### 1.2.1. [Antecedentes y problematica](/Docs/Capitulo%20I/Solution%20Profile.md)
 ##### 1.2.2. Lean UX Process 
 ###### 1.2.2.1. Lean UX Problem Statements
 ###### 1.2.2.2. Lean UX Assumptions
@@ -58,9 +58,9 @@
 ##### 2.3.2. User Task Matrix
 ##### 2.3.3. User Journey Mapping
 ##### 2.3.4. Empathy Mapping
-##### 2.3.5. As-is Scenario Mapping
+##### 2.3.5. [As-is Scenario Mapping](/Docs/Capitulo%20II/As-is%20Scenario%20Mapping.md)
 ### Capitulo III: Requirements Specification
-#### 3.1. To-Be Scenario Mapping.
+#### 3.1. [To-Be Scenario Mapping](/Docs/Capitulo%20III/To-Be%20Scenario%20Mapping.md)
 #### 3.2. User Stories 
 #### 3.3. Impact Mapping
 #### 3.4. Product Backlog
