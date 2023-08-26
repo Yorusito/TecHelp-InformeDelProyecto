@@ -5,7 +5,7 @@
 Que seria de nosotros sin nuestros celulares hoy en dia,esto es lo que preocupa a  millones de personas que possen uno de estos equipos, que fueron incrementando a lo largo de los años siendo del 39,9% a 70,3% en el sector rural y 68,0% a 90,9% de sector urbano del Perú entre los años 2016 a 2021 segun la OSIPTEL [(OSIPTEL, 2022)](/Docs/Capitulo%20V/Bibliografia.md). Este incremento significativo en este sector aumenta la demanda de tecnicos de celulares en todo el pais.
 
 Este aumento provoca en los usuarios la busqueda de tecnicos de confianza, pero muchos 
-se pregunta si el precio es corecto. El canal de DescoCaosTV puso a prueba a tecnicos ubicados en Tacora en su video titulado "Pongo a prueba dos Técnicos de Celular". El youtuber fue consultando a diferentes tecnicos sobre la reparacion de un celular que posse un problema muy simple, todo esto con la finalidad de ver  la honestidad y confianza de estos. En el video se aprecia desde supuestos tecnicos que no saben diagnosticar un equipo y otros que quieren cobrar precios desorbitantes que rondan entre los 200 soles. No obstante se encontro con un tecnico que si le realizo la reparacion con su respectivo precio siendo de 20 soles demostrando honestidad y confianza [(DescoCaosTV,2020)](/Docs/Capitulo%20V/Bibliografia.md). Este caso muestra una realidad que sufren las personas al buscar una tecnico para la reparacion de sus celulares, esa falta de seguridad por parte de estos ultimos es lo que provoca desconfianza de los usuarios.
+se pregunta si el precio es corecto al momento de llevar a un tecnico el celular a reparar. El canal de Youtube __"DescoCaosTV"__ puso a prueba a tecnicos ubicados en Tacora en su video titulado "Pongo a prueba dos Técnicos de Celular". El youtuber fue consultando a diferentes tecnicos sobre la reparacion de un celular que posse un problema muy simple, todo esto con la finalidad de ver  la honestidad y confianza de estos. En el video se aprecia desde supuestos tecnicos que no saben diagnosticar un equipo y otros que quieren cobrar precios desorbitantes que rondan entre los 200 soles. No obstante se encontro con un tecnico que si le realizo la reparacion con su respectivo precio siendo de 20 soles demostrando honestidad y confianza [(DescoCaosTV,2020)](/Docs/Capitulo%20V/Bibliografia.md). Este caso muestra una realidad que sufren las personas al buscar una tecnico para la reparacion de sus celulares, esa falta de seguridad por parte de estos ultimos es lo que provoca desconfianza de los usuarios.
 
 
 * Objetivos de la solucion
@@ -51,7 +51,7 @@ El problema se resolvera con la implementacion de nuestra aplicacion ya que brin
 ## How much?
 - ¿Cuanto costara realizar?
 
-La realizacion de este proyecto dependera de la dificultad al momento del desarrollo de esta misma
+La realizacion de este proyecto dependera de la dificultad y caracteristicas al momento del desarrollo de esta misma. Por otro lado podemos agregar que este proyecto traera grandes beneficios a los usuarios que tienen poco conocimiento a estas tecnologias.
 
 
 https://www.osiptel.gob.pe/portal-del-usuario/noticias/osiptel-el-88-4-de-los-hogares-peruanos-cuenta-con-un-telefono-inteligente/#:~:text=La%20tasa%20de%20posesi%C3%B3n%20de,70%2C3%20%25%20en%202021.
