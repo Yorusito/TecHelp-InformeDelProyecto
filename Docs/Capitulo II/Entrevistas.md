@@ -71,7 +71,7 @@ Preguntas demográficas:
 
 <center>
 
-__Entrevista 1__
+<p align = "center">Entrevista 1</p>
 
 [![Ver entrevista](https://img.youtube.com/vi/l5OxZyfTgWg/0.jpg)](https://www.youtube.com/watch?v=l5OxZyfTgWg)
 
