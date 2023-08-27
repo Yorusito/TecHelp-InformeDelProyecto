@@ -65,3 +65,6 @@ Preguntas demográficas:
 1. ¿Cree que nuestra aplicación solucionara las malas  experiencias que ha tenido  al acudir los  servicios de un técnico  ?
 1. Al escuchar nuestra aplicación ¿ Qué otras funcionalidades le gustaría  ver en nuestra aplicación?
 
+### 2.2.2. Registro de entrevistas
+
+### 2.2.3. Analisis de entresvistas
