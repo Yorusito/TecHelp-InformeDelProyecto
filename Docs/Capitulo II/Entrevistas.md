@@ -227,4 +227,13 @@ Sí cree que solucionaría las malas experiencias, ya que  la aplicación tendr�
 
 Le gustaría que la aplicación brinda una forma de comunicación entre el cliente y el técnico, así mismo cree que el técnico debe ofrecer sus propios precios y el tiempo que va a demorar.
 
+<center>
+
+<p align = "center">Entrevista 3</p>
+
+[![Ver entrevista](https://img.youtube.com/vi/M1yYiX9BLlA/0.jpg)](https://youtu.be/M1yYiX9BLlA)
+
+</center>
+
+
 ### 2.2.3. Analisis de entresvistas
