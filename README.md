@@ -19,7 +19,7 @@
 
 * ### Morales Quispe Brayan Smith   u20211f984 
 * ### Ramirez Mendez Sebastián André    u20191e575     
-* ###      
+* ### Lagos Aguilar Luis Eduardo        u202121975    
 * ### 
 * ### 
 -----
