@@ -149,4 +149,82 @@ El dijo que en cierta medida si ayudaria a solucionar las malas experiencias con
 
 la funcionalidad que el agregaria seria la implementacion de vista de tecnicos en un mapa interactivo
 
+<center>
+
+<p align = "center">Entrevista 2</p>
+
+[![Ver entrevista](https://i9.ytimg.com/vi_webp/rVv9YWHdIvk/mq2.webp?sqp=COTgr6cG-oaymwEmCMACELQB8quKqQMa8AEB-AH-BIAC6AKKAgwIABABGGUgZShlMA8=&rs=AOn4CLBy51zsFyBLeSoLBJDhIYGxEA4bIA)](https://youtu.be/rVv9YWHdIvk)
+
+</center>
+
+### Preguntas demográficas:
+
+__¿Cual es tu nombre?__
+
+Su nombre es Kevin Abarca.
+
+__¿Qué edad tienes?__
+
+Él tiene 19 años.
+
+__¿Tienes una ocupación?__
+
+Él es estudiante en la UPC y cursa el quinto ciclo.
+
+__¿De qué distrito resides ?__
+
+Él reside en San Juan de Lurigancho.
+
+### Preguntas principales:
+
+1. __¿En algún momento usted ha acudido a los servicios de un técnico para reparar su celular?¿Qué problema tenía su celular?¿El técnico pudo reparar su celular?¿Se sintió satisfecho con la atención que le brindó?__
+
+Si acudió al servicio de un técnico para reparar la cámara de su celular. El técnico sí pudo reparar su celular. Kevin no se sintió satisfecho por la demora de la entrega de su celular.
+
+2. __¿Ha vuelto a tener ese mismo fallo con su celular u otro fallo distinto? ¿Lo ha vuelto a enviar al mismo técnico? ¿Cuántas veces ha tenido que acudir a un técnico por el mismo fallo u otro?__
+    
+Sí, tuvo un fallo con la batería de su celular, acudió con otro técnico conocido en redes sociales por su servicio. En general tuvo que acudir a un técnico tres a cuatro veces por fallos en su celular.
+
+3. __¿Trataste de solucionar el problema por tu propia cuenta?__
+
+Sí trato de solucionar el problema por su cuenta, pero agravó la situación de su celular por la falta de conocimientos y materiales.
+
+4. __La atención general de los técnicos que ha acudido ¿Fue la que esperaba?¿Ha tenido que realizar filas para poder ser atendida?__
+
+La primera experiencia contada no esperó que el servicio del técnico fuera malo por la amabilidad de su atención, sin embargó el segundo técnico cumplió con sus expectativas por su reputación en redes sociales. No tuvo que realizar filas, pero el primer técnico demoró cinco días en devolverle el celular.
+
+5. __¿Alguna vez el técnico le dijo que tenía que dejar su celular por una cierta cantidad de días?¿Cuántos días dejó su celular a un técnico ?¿El técnico cumplió con el tiempo establecido? Si no fue así ¿Cuántos días tuvo que esperar para que le devolvieran su celular?__
+
+El técnico que reparó la cámara de su celular le pidió que se lo deje por un día. El técnico no cumplió con el tiempo establecido y tuvo que esperar cinco días para recuperar su celular.
+
+6. __Por experiencia,¿Cuál es el costo promedio por reparación de tu equipo? ¿Te parece justo ese precio?__
+
+El costo promedio de reparación es de 150 soles, le pareció justo el precio ya que el técnico en Polvos Azules le devolvió el celular el mismo día.
+
+7. __¿Se te ha brindado garantía luego de la reparación de tu celular? ¿Qué tipo de garantía?__
+
+No le brindaron garantías, solo promesas.
+
+8. __¿Conoce algún familiar que ha sufrido un accidente con su equipo luego de ser reparado por un técnico?__
+
+Un amigo cercano a Kevin pidió la reparación de la pantalla de su celular, sin embargo el técnico puso de manera incorrecta la nueva pantalla y ante el reclamo del amigo de Kevin, el técnico le hizo un cobro extra por poner en la posición correcta la nueva pantalla.
+
+9. __Por su experiencia,¿Que toma en cuenta a la hora de elegir un técnico?__
+
+Toma en cuenta la reputación del técnico, el tiempo que va a demorar, así mismo acude a ciertos técnicos por recomendación de amigos.
+
+### Preguntas sobre el proyecto:
+
+1. __¿Ha escuchado de una aplicación web que brinde los  mismos servicios que ofrece nuestro proyecto?__
+
+No ha escuchado sobre aplicaciones similares.
+
+2. __¿ Cree que nuestra aplicación solucionara las malas  experiencias que ha tenido  al acudir los  servicios de un técnico  ?__
+
+Sí cree que solucionaría las malas experiencias, ya que  la aplicación tendría técnicos con excelente servicio.
+
+3. __Al escuchar nuestra aplicación ¿ Qué otras funcionalidades le gustaría  ver en nuestra aplicación?__
+
+Le gustaría que la aplicación brinda una forma de comunicación entre el cliente y el técnico, así mismo cree que el técnico debe ofrecer sus propios precios y el tiempo que va a demorar.
+
 ### 2.2.3. Analisis de entresvistas
