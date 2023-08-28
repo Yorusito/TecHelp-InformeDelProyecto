@@ -303,7 +303,7 @@ En el caso de ella, si solucionaría su mala experiencia por el hecho que no le 
 
 3. __Al escuchar nuestra aplicación ¿Qué otras funcionalidades le gustaría ver en nuestra aplicación?__
 
-La función que ella agregaría sería en el apartado de comentarios donde además de comentar puedas publiar una foto para que asi otras personas que desean el servicio de ese técnico vean como él ha realizado el trabajo.
+La función que ella agregaría sería en el apartado de comentarios donde además de comentar puedas publicar una foto para que asi otras personas que desean el servicio de ese técnico vean como él ha realizado el trabajo.
 
 
 ### 2.2.3. Analisis de entrevistas
